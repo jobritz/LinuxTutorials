@@ -17,6 +17,7 @@ chmod +x /where you saved your .sh file/filname.sh
 
 # Step 3:
 # create .desktop file:
+# Disclaimer: Watch raw file to see the correct format
 
 [Desktop Entry]
 Version=1.0
