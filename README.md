@@ -1,5 +1,3 @@
-# Disclaimer: Watch raw Version to see the correct format
-
 # deskshcut
 create runnable Desktop shortcut in Kali Linux
 
@@ -19,6 +17,7 @@ chmod +x /where you saved your .sh file/filname.sh
 
 # Step 3:
 # create .desktop file:
+# Disclaimer: Watch raw Version to see the correct format
 
 [Desktop Entry]
 Version=1.0
