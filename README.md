@@ -4,7 +4,7 @@ create runnable Desktop shortcut in Kali Linux
 # This Repository is about how you turn a command line you write in terminal into a one-click shortcut
 
 # Step 1:
-# Use your Texteditor where you write the command line to run the program
+# create .sh file
 # Example: Xampp
 
 /opt/lampp/manager-linus-x64.run
