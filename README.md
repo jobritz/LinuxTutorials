@@ -5,9 +5,10 @@ create runnable Desktop shortcut in Kali Linux
 
 # Step 1:
 # create .sh file
-# Example: Xampp
+# Write the command line you need to start the programm:
+# Exsample: Xampp
 
-/opt/lampp/manager-linus-x64.run
+sudo /opt/lampp/manager-linus-x64.run
 
 # save this as an .sh file at a save place
 # Step 2:
