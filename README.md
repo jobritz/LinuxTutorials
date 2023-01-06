@@ -39,6 +39,6 @@ chmod +x /where you saved your .dektop file/filename.desktop
 # Step 4:
 # move .desktop file:
 
-sudo mv /where you saved your .desktop fil/fileame. desktop /usr/share/applications
+sudo mv /where you saved your .desktop file/fileame. desktop /usr/share/applications
 
 # Now you should be able to find this shortcut in your Applications
