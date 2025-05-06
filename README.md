@@ -1,4 +1,4 @@
-# deskshcut
+# Desktop shortcut in Linux
 Create runnable desktop shortcut in linux
 
 # Step 1:
